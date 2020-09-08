@@ -1,0 +1,6 @@
+D:\LAB_TongHop\langbiangClass\ComplexNumber\bin\Debug\ComplexNumber.exe.config
+D:\LAB_TongHop\langbiangClass\ComplexNumber\bin\Debug\ComplexNumber.exe
+D:\LAB_TongHop\langbiangClass\ComplexNumber\bin\Debug\ComplexNumber.pdb
+D:\LAB_TongHop\langbiangClass\ComplexNumber\obj\Debug\ComplexNumber.csprojAssemblyReference.cache
+D:\LAB_TongHop\langbiangClass\ComplexNumber\obj\Debug\ComplexNumber.exe
+D:\LAB_TongHop\langbiangClass\ComplexNumber\obj\Debug\ComplexNumber.pdb

@@ -1,0 +1,11 @@
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\bin\Debug\netcoreapp3.0\AutoPolicy.exe
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\bin\Debug\netcoreapp3.0\AutoPolicy.deps.json
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\bin\Debug\netcoreapp3.0\AutoPolicy.runtimeconfig.json
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\bin\Debug\netcoreapp3.0\AutoPolicy.runtimeconfig.dev.json
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\bin\Debug\netcoreapp3.0\AutoPolicy.dll
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\bin\Debug\netcoreapp3.0\AutoPolicy.pdb
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\obj\Debug\netcoreapp3.0\AutoPolicy.csprojAssemblyReference.cache
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\obj\Debug\netcoreapp3.0\AutoPolicy.AssemblyInfoInputs.cache
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\obj\Debug\netcoreapp3.0\AutoPolicy.AssemblyInfo.cs
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\obj\Debug\netcoreapp3.0\AutoPolicy.dll
+D:\LAB_TongHop\langbiangClass\AutoPolicy\AutoPolicy\obj\Debug\netcoreapp3.0\AutoPolicy.pdb

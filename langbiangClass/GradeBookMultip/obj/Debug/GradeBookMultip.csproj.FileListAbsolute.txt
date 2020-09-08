@@ -1,0 +1,6 @@
+D:\langbiangClass\GradeBookMultip\bin\Debug\GradeBookMultip.exe.config
+D:\langbiangClass\GradeBookMultip\bin\Debug\GradeBookMultip.exe
+D:\langbiangClass\GradeBookMultip\bin\Debug\GradeBookMultip.pdb
+D:\langbiangClass\GradeBookMultip\obj\Debug\GradeBookMultip.csprojAssemblyReference.cache
+D:\langbiangClass\GradeBookMultip\obj\Debug\GradeBookMultip.exe
+D:\langbiangClass\GradeBookMultip\obj\Debug\GradeBookMultip.pdb

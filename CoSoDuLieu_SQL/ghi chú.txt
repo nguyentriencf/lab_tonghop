@@ -1,0 +1,35 @@
+cơ sở dữ liệu
+-cách tiếp cận csdl
+*hạn chế 
+-dữ liệu bị trùng hợp và ..
+4 đặc tính mô tả cơ sở dữ liệu
+-trừu tượng 
+-độc lập 
+-nhất quán
+khái niêm
+- mô hình dữ liêu(dât model)
++mức cao:gần gũi với người dùng
++cài đặt:
++mức thấp:
+
+
+mô hình dữ liệu
+lược đồ csdll (ít thay đổi)
+thể hiện:hay biến động nhất
+ * tập thực thể
+nhân viến:MANV,họ tên , ngày  sinh, địa chỉ(số nhà,phường,thành phố),
+điện thoại, ngày vào công tác, thâm niên
+thuộc tính đơn: kh thể chia nhỏ dược nữa
+thuộc tính kết hợp(địa chỉ)
+thuộc tính đơn trị ứng với 1 đối tượng cho phép nhân 1 giá trị một lúc
+thuộc tính đa trị ứng vơi s1 đối tượng cho phép nhận nhiều giá trị 1 lúc
+thuộc tính đơn >< thuộc tính kết hợp
+thuộc tính đơn trị ><thuộc tính đa trị
+thuộc tính lưu trữ >< thuộc tính dẫn xuất: là thuộc,
+ tính mà nó có thể tinh qua các giá trị thuộc tính khác. có thể có 2 lựa chọn nên lưu hay không lưu(ví du: thâm niên)
+-Giá trị rỗng(NULL) khác với chuỗi trống
+-Giá trị rỗng(NULL) có thể có nhiều nghĩa
++nghĩa thứ nhất có giá trị mà ta chưa biết hay chưa điền
++nghĩa thứ hai nó hoàn toàn không tồn tại giá trị ứng vơi đối tượng đó
+* mối quan hệ 
+là sự liên kết giữa 2 hay nhiều tập thực thể

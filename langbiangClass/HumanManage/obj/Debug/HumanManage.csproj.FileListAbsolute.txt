@@ -1,0 +1,6 @@
+D:\LAB_TongHop\langbiangClass\HumanManage\bin\Debug\HumanManage.exe.config
+D:\LAB_TongHop\langbiangClass\HumanManage\bin\Debug\HumanManage.exe
+D:\LAB_TongHop\langbiangClass\HumanManage\bin\Debug\HumanManage.pdb
+D:\LAB_TongHop\langbiangClass\HumanManage\obj\Debug\HumanManage.csprojAssemblyReference.cache
+D:\LAB_TongHop\langbiangClass\HumanManage\obj\Debug\HumanManage.exe
+D:\LAB_TongHop\langbiangClass\HumanManage\obj\Debug\HumanManage.pdb

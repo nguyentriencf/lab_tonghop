@@ -1,0 +1,6 @@
+D:\LAB_TongHop\langbiangClass\CaseStudy12.5\bin\Debug\CaseStudy12.5.exe.config
+D:\LAB_TongHop\langbiangClass\CaseStudy12.5\bin\Debug\CaseStudy12.5.exe
+D:\LAB_TongHop\langbiangClass\CaseStudy12.5\bin\Debug\CaseStudy12.5.pdb
+D:\LAB_TongHop\langbiangClass\CaseStudy12.5\obj\Debug\CaseStudy12.5.csprojAssemblyReference.cache
+D:\LAB_TongHop\langbiangClass\CaseStudy12.5\obj\Debug\CaseStudy12.5.exe
+D:\LAB_TongHop\langbiangClass\CaseStudy12.5\obj\Debug\CaseStudy12.5.pdb

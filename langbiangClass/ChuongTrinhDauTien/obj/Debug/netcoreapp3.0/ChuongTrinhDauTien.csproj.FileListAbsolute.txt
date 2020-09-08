@@ -1,0 +1,11 @@
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\bin\Debug\netcoreapp3.0\ChuongTrinhDauTien.exe
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\bin\Debug\netcoreapp3.0\ChuongTrinhDauTien.deps.json
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\bin\Debug\netcoreapp3.0\ChuongTrinhDauTien.runtimeconfig.json
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\bin\Debug\netcoreapp3.0\ChuongTrinhDauTien.runtimeconfig.dev.json
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\bin\Debug\netcoreapp3.0\ChuongTrinhDauTien.dll
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\bin\Debug\netcoreapp3.0\ChuongTrinhDauTien.pdb
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\obj\Debug\netcoreapp3.0\ChuongTrinhDauTien.csprojAssemblyReference.cache
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\obj\Debug\netcoreapp3.0\ChuongTrinhDauTien.AssemblyInfoInputs.cache
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\obj\Debug\netcoreapp3.0\ChuongTrinhDauTien.AssemblyInfo.cs
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\obj\Debug\netcoreapp3.0\ChuongTrinhDauTien.dll
+D:\LAB_TongHop\langbiangClass\ChuongTrinhDauTien\obj\Debug\netcoreapp3.0\ChuongTrinhDauTien.pdb

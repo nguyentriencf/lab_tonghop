@@ -1,0 +1,11 @@
+D:\langbiangClass\GradeBookVersion2\bin\Debug\netcoreapp3.0\GradeBookVersion2.exe
+D:\langbiangClass\GradeBookVersion2\bin\Debug\netcoreapp3.0\GradeBookVersion2.deps.json
+D:\langbiangClass\GradeBookVersion2\bin\Debug\netcoreapp3.0\GradeBookVersion2.runtimeconfig.json
+D:\langbiangClass\GradeBookVersion2\bin\Debug\netcoreapp3.0\GradeBookVersion2.runtimeconfig.dev.json
+D:\langbiangClass\GradeBookVersion2\bin\Debug\netcoreapp3.0\GradeBookVersion2.dll
+D:\langbiangClass\GradeBookVersion2\bin\Debug\netcoreapp3.0\GradeBookVersion2.pdb
+D:\langbiangClass\GradeBookVersion2\obj\Debug\netcoreapp3.0\GradeBookVersion2.csprojAssemblyReference.cache
+D:\langbiangClass\GradeBookVersion2\obj\Debug\netcoreapp3.0\GradeBookVersion2.AssemblyInfoInputs.cache
+D:\langbiangClass\GradeBookVersion2\obj\Debug\netcoreapp3.0\GradeBookVersion2.AssemblyInfo.cs
+D:\langbiangClass\GradeBookVersion2\obj\Debug\netcoreapp3.0\GradeBookVersion2.dll
+D:\langbiangClass\GradeBookVersion2\obj\Debug\netcoreapp3.0\GradeBookVersion2.pdb

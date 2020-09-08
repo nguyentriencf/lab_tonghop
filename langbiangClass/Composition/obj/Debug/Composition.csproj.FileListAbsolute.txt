@@ -1,0 +1,12 @@
+D:\langbiangClass\Composition\bin\Debug\Composition.exe.config
+D:\langbiangClass\Composition\bin\Debug\Composition.exe
+D:\langbiangClass\Composition\bin\Debug\Composition.pdb
+D:\langbiangClass\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+D:\langbiangClass\Composition\obj\Debug\Composition.exe
+D:\langbiangClass\Composition\obj\Debug\Composition.pdb
+D:\LAB_TongHop\langbiangClass\Composition\bin\Debug\Composition.exe.config
+D:\LAB_TongHop\langbiangClass\Composition\bin\Debug\Composition.exe
+D:\LAB_TongHop\langbiangClass\Composition\bin\Debug\Composition.pdb
+D:\LAB_TongHop\langbiangClass\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+D:\LAB_TongHop\langbiangClass\Composition\obj\Debug\Composition.exe
+D:\LAB_TongHop\langbiangClass\Composition\obj\Debug\Composition.pdb
